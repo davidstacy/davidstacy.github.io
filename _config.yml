@@ -1,0 +1,12 @@
+# Site settings
+title: Dave Stacy, anti-specialist
+email: dave@stacynet.com
+description: "Adventures in Devops; Hilarity ensues"
+baseurl: ""
+url: "http://davidstacy.github.io"
+twitter_username: DaveStacy
+github_username:  DavidStacy
+
+# Build settings
+markdown: kramdown
+permalink: pretty
