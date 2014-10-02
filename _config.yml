@@ -13,7 +13,7 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: /:categories/:title/
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 gems:
   - jekyll-sitemap
@@ -28,7 +28,7 @@ owner:
     ad-client: 
     ad-slot: 
   bio: Internet Plumber
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: DavidStacy-160-160.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 
