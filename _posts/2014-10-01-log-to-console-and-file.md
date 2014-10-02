@@ -9,7 +9,7 @@ For our Docker containers I wanted the option of logging both to the console and
 
 2. Configure the config/application.rb like so.
 
-```ruby
+{% highlight ruby %}
 require 'logging'
 
 class Application < Rails::Application
@@ -24,7 +24,6 @@ class Application < Rails::Application
     end
   )
   config.logger.level = :debug
-```
-
+{% endhighlight %}
 
 Add LOG_PATH environment variable to your docker run command
