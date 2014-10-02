@@ -2,7 +2,7 @@
 
 title: David Stacy
 description: Adventures in DevOps
-logo: davidstacy-120-120.jpg # 120x120 px default image used for Twitter summary card
+logo: davestacy-120-120.jpg # 120x120 px default image used for Twitter summary card
 teaser: doge-wallpaper-hddoge-wallpaper---meme-wallpapers-tyu6bqrn.jpg # 400x250 px default teaser image used in image archive grid
 locale:
 url:
@@ -28,7 +28,7 @@ owner:
     ad-client: 
     ad-slot: 
   bio: Internet Plumber
-  avatar: davidstacy-160-160.jpg # 160x160 px image for author byline
+  avatar: davestacy-160-160.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 
