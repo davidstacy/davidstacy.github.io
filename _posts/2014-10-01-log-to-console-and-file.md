@@ -2,6 +2,8 @@
 layout: article
 permalink: /log-to-console-and-file
 title: "Log to both the console and a file"
+image:
+  teaser: bash-400x250.png
 ---
 For our Docker containers I wanted the option of logging both to the console and to a file.  And I also wanted to control where the file goes.
 
